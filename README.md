@@ -26,14 +26,17 @@ Aplikasi Desktop Penerimaan Peserta Didik Baru (ADPPDB)
 
 ### Admin
 Email	   : admin@admin.com
+
 Password  : password
 
 ### Operator
 Email	   : operator@operator.com
+
 Password  : password
 
 ### Peserta
 Email	   : peserta@peserta.com
+
 Password  : password
 
 ### Keterangan
